@@ -1,0 +1,46 @@
+.banner
+{
+    height: 600px;
+    width: 100%;
+    display: flex;
+}
+.sidebanner1{
+    height: 400px;
+    width: 300px;
+    border-radius: 5%;
+    transition: 0.5s;
+}
+.display
+{
+    display: flex;
+      align-items: center;
+      justify-content: space-around;
+    margin-top: -40px;
+ /* background-color: aquamarine; */
+}
+.div
+{
+    text-align: center;
+     /* background-color: aqua; */
+}
+.div h1{
+    color: aliceblue;
+}
+body{
+    background-color: black;
+}
+.sidebanner1:hover
+{
+    border-radius: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
